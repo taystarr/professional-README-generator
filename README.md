@@ -1,8 +1,8 @@
-# khrgkjdhldf
-  ## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Professional README Generator
+  ## [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description
-  fbszdlkzfd
+  This project allows the user to generate a professional README through just answering prompts in the command line.
 
   ## Table of Contents
 
@@ -14,21 +14,21 @@
   - [Questions](#questions)
 
   ## Installation
-  nsfkjnbfc
+  Clone code from this repository and make sure that you have node.js installed.
 
   ## Usage 
-  kjbfbnknf
+  Once cloned please ensure that you are in the project directory for this application. Type 'node index
 
   ## License
-  This project is under MIT license. MIT is a type of permissive free software license, it is the leanest license and basically means that users can do whatever they want with the application.
+  This project is under Apache license. Apache is a type of permissive free software license, it allows the user to do nearly anything they want with the code, with very few exceptions. Given that the Apache License text is quite dense, to further read up on the legality please click the license badge at the top of the page.
   
 
   ## Contributing
-  nkjfvx
+   Others can clone and do what they want
 
   ## Tests
-  nfdvklnd
+  We will be learning about tests in our next module
 
   ## Questions
-  For addational information please click here lksdbndfg to see my GitHub repositories or email me at nklfndkjfzdjdzfz.
+  For addational information please click [here](https://github.com/taystarr) to see my GitHub repositories or email me at tstarrroberts@g.com.
   
