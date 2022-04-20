@@ -1,8 +1,8 @@
 # Professional README Generator
-  ## [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  ## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  This project allows the user to generate a professional README through just answering prompts in the command line.
+  TThi project allows users to generate a professional README just by answering prompts through the command line. It automatically generates the format of a README and fills in the questions answered to the corresponding sections in the README. 
 
   ## Table of Contents
 
@@ -14,21 +14,24 @@
   - [Questions](#questions)
 
   ## Installation
-  Clone code from this repository and make sure that you have node.js installed.
+  Clone the code from GitHub and ensure that you have node.js installed in order to run this application.
 
   ## Usage 
-  Once cloned please ensure that you are in the project directory for this application. Type 'node index
+  Open code, ensure that you are in root directory for this project in the command line. Run the code by typing 'node index' in command line, follow prompts and then check files for a new README. If you notice any typos or errors simply edit in the actual README file or start over in the command line to completely replace the existing file.
 
   ## License
-  This project is under Apache license. Apache is a type of permissive free software license, it allows the user to do nearly anything they want with the code, with very few exceptions. Given that the Apache License text is quite dense, to further read up on the legality please click the license badge at the top of the page.
+  This project is under MIT license. MIT is a type of permissive free software license, it is the leanest license and basically means that users can do whatever they want with the application.
   
 
   ## Contributing
-   Others can clone and do what they want
+  Any user can contribute as they please, this is an open source project and can be modified for personal use as seen fit.
 
   ## Tests
-  We will be learning about tests in our next module
+  No tests were run for this project.
+
+  ## Demo
+  ![Professional README Demo](Professional%20README%20Demo.mp4)
 
   ## Questions
-  For addational information please click [here](https://github.com/taystarr) to see my GitHub repositories or email me at tstarrroberts@g.com.
+  For additional information please click [here](https://github.com/taystarr) to see my GitHub repositories or email me at tstarrroberts@gmail.com.
   

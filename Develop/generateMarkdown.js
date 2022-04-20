@@ -65,7 +65,7 @@ function generateMarkdown(data) {
   ${data.test}
 
   ## Questions
-  For addational information please click [here](https://github.com/${data.name}) to see my GitHub repositories or email me at ${data.email}.
+  For additional information please click [here](https://github.com/${data.name}) to see my GitHub repositories or email me at ${data.email}.
   `;
 }
 

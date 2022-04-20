@@ -160,39 +160,3 @@ questions()
     });
 
 
-// questions()
-//     .then(data => {
-//         const filename = generateMarkdown(data);
-
-//         fs.writeFile('README.md', filename, err => {
-//             if (err) {
-//                 console.log(err);
-//                 return;
-//             }
-
-//             console.log('Success')
-//         });
-//     }); 
-
-// TODO: Create a function to write README file
-// const writeToFile = (fileName, data) => {
-//     fs.writeFile(fileName, data, err => {
-//         if (err) {
-//             console.log(err);
-//             return;
-//         }
-//         console.log('README written!!');
-//     })
-// };
-
-// // TODO: Create a function to initialize app
-// const init = () => {
-//     inquirer.prompt(questions)
-//     .then(userInput => {
-//         console.log(userInput);
-//         writeToFile('README.md', generateMarkdown(userInput));
-//     });
-// };
-
-// // Function call to initialize app
-// init();
